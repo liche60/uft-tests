@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>SystemUtil.Run "chrome.exe",3</Name>
+    <StartTime>2018-03-08 04:14:32</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>b65028f0d83e44178190897bf205d31a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>SystemUtil.Run "chrome.exe",3</Name>
+    <StartTime>2018-03-08 04:14:38</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>b65028f0d83e44178190897bf205d31a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2018-03-08 04:14:32</StartTime>
+    <Duration>6</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>069e2f46749049a7bccff4ac09642888</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2018-03-08 04:14:32</StartTime>
+    <Duration>6</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>895868a3d3ee4158aed4c4c2309a2a46</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest1</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.03</ToolVersion>
+    <Description />
+    <StartTime>2018-03-08 04:14:31</StartTime>
+    <Duration>7</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>6f2dd0e7e3614a6cbe1eeb325255576b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>-08:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>vagrant</User>
+      <CpuInfo>Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz</CpuInfo>
+      <NumberOfCores>2</NumberOfCores>
+      <TotalMemory>2048</TotalMemory>
+      <HostName>DESKTOP-VV4BML4</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res2</ResultName>
+    <RunStartTime>2018-03-08 04:14:31</RunStartTime>
+    <Timezone>-08:00:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.03</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>
